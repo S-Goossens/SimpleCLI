@@ -1,5 +1,5 @@
 # CLI Module
-Originally made for the SIMPA project. This module is designed as a compact tool without dependencies that allows you to 
+Originally made for the SIMPA project found at [simpa-project.web.cern.ch](https://simpa-project.web.cern.ch). This module is designed as a compact tool without dependencies that allows you to 
 make a simple CLI for your application by using annotations to mark methods as commands.
 
 ## Getting started
@@ -127,7 +127,7 @@ write-script -f "<<filename>>"
 ```
 
 #### Writing a script
-A script can be written that is supplied to the startFromFile(String filename) method or the ```text call -f "<<filename>>"``` command 
+A script can be written that is supplied to the startFromFile(String filename) method or the ```call -f "<<filename>>"``` command 
 of the CommandInterpreter using the syntax explained in the section syntax, this syntax is the exact same as writing the commands in the interactive shell
 so the interactive shell allows for simple debugging.
 
