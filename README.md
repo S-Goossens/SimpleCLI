@@ -1,5 +1,6 @@
 # CLI Module
-Originally made for the SIMPA project. This module allows you to make a simple CLI for your application by using annotations to mark methods as commands.
+Originally made for the SIMPA project. This module is designed as a compact tool without dependencies that allows you to 
+make a simple CLI for your application by using annotations to mark methods as commands.
 
 ## Getting started
 ### Creating the CLI
